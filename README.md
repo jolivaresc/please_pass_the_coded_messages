@@ -14,19 +14,19 @@ in the list may only be used once.
 
 # Languages
 
-  To provide a Python solution, edit solution.py
-  To provide a Java solution, edit solution.java
+      To provide a Python solution, edit solution.py
+      To provide a Java solution, edit solution.java
 
 # Test cases
 
-  Inputs:
-      (int list) l = [3, 1, 4, 1]
-  Output:
-      (int) 4311
+      Inputs:
+          (int list) l = [3, 1, 4, 1]
+      Output:
+          (int) 4311
 
-  Inputs:
-      (int list) l = [3, 1, 4, 1, 5, 9]
-  Output:
+      Inputs:
+          (int list) l = [3, 1, 4, 1, 5, 9]
+      Output:
       (int) 94311
 
 Use verify [file] to test your solution and see how it does. When you are finished editing your code, use submit [file] 
