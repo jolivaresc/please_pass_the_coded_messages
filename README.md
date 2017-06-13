@@ -1,5 +1,4 @@
 # Please Pass the Coded Messages
-==============================
 
 You need to pass a message to the bunny prisoners, but to avoid detection, the code you agreed to use is... obscure, 
 to say the least. The bunnies are given food on standard-issue prison plates that are stamped with the numbers 0-9 
@@ -14,13 +13,11 @@ answer. L will contain anywhere from 1 to 9 digits.  The same digit may appear m
 in the list may only be used once.
 
 # Languages
-=========
 
   To provide a Python solution, edit solution.py
   To provide a Java solution, edit solution.java
 
 # Test cases
-==========
 
   Inputs:
       (int list) l = [3, 1, 4, 1]
