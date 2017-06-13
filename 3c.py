@@ -59,4 +59,3 @@ def answer(L):
 
 print answer([3, 1, 4, 1])
 
-
