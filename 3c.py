@@ -50,8 +50,6 @@ def answer(L):
 					return int(''.join(map(str,sorted(mul,reverse=True))))
 				else:
 					return int(''.join(map(str,sorted(max(f)+mul,reverse=True))))
-			elif mul: 
-				return int(''.join(map(str,sorted(mul,reverse=True))))
 			else: return 0
 	else: return 0
 
